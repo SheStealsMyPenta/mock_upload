@@ -1,4 +1,5 @@
-	1.	What did you choose to mock the API and why?
+already Deploy in Vercel https://mock-upload.vercel.app/
+ 1.	What did you choose to mock the API and why?
 	•	I chose axios-mock-adapter because it can straightforwardly simulate axios requests, making it easy to set delays, errors, and status simulations. This allows us to quickly validate front-end logic without setting up a real backend.
 	2.	If you used an AI tool, what parts did it help with?
 	•	I used ChatGPT to help set up the initial structure, particularly the core implementation of task polling and state management.
